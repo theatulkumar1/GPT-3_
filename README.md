@@ -1,1 +1,2 @@
 # GPT-3_
+I just completed building a custom GPT from scratch! 🚀 By following the architecture in the 'Attention Is All You Need' paper, I implemented a decoder-only Transformer to model language patterns. This project helped me go deep into the mechanics of multi-headed self-attention, residual connections, and layer normalization. Check out the results on my GitHub! #AI #MachineLearning #DeepLearning #Transformer #GPT"
